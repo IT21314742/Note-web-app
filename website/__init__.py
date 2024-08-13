@@ -1,3 +1,3 @@
 from flask import Flask
 
-def create_app()
+def create_app():
