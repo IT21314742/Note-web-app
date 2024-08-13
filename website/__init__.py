@@ -1,4 +1,4 @@
 from flask import Flask
 
-def fname(arg):
+def (arg):
     pass
