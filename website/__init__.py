@@ -5,3 +5,4 @@ def create_app():
     app.config['SECRET_KEY'] = 'victor'
     
     
+    
